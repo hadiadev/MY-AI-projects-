@@ -1,3 +1,3 @@
 # MY-AI-projects-
-A collection of AI-based projects, focusing on automation, python, and AI-powered tools.
-
+ Youtube Comment Analyzer tool
+https://colab.research.google.com/github/HaddyDev/MY-AI-projects-/refs/heads/main/YouTube%20Comment%20Analyzer.ipynb?token=GHSAT0AAAAAADBCO5EBXHQU5S5GMIGJXHWSZ7NHOJQ
