@@ -1,26 +1,50 @@
-💬 1. YouTube Comment Analyzer
-Description:
-A Python-based tool that fetches comments from YouTube videos and performs sentiment analysis to classify comments as Positive, Negative, or Neutral. 
-Ideal for understanding audience feedback or analyzing public opinion on videos.
+ 🤖 My AI Project
+
+Welcome to My AI Project, a collection of simple yet powerful AI and automation tools built using Python. Each mini-project in this repository solves a specific real-world problem using open-source libraries — no paid APIs, no fancy hardware needed.
+
+Whether you're a student, developer, or tech enthusiast, these tools are designed to be easy to use, educational, and completely free to explore.
 
 
 
-🔊 2. Audio Silence Remover
-Description:
-This tool automatically detects and removes silent parts from audio files using Python and audio processing libraries. 
-It's useful for cleaning podcasts, voiceovers, or lecture recordings by skipping silent pauses to save time and make audio more engaging.
+ 🚀 Projects Overview
+
+ 🔊 1. Audio Silence Remover
+Automatically removes silent parts from an audio file. Useful for cleaning up podcasts, voice recordings, or lectures by skipping unnecessary pauses.
+
+> **Tech Used:** `pydub`, `ffmpeg`, `Google Colab`
+
+---
+
+ 💬 2. YouTube Comment Analyzer
+Fetches comments from YouTube videos and classifies them into Positive, Negative, or Neutral using sentiment analysis.
+
+> **Tech Used:** `YouTube API`, `TextBlob`, `pandas`, `matplotlib`
+
+---
+
+ 🖼️ 3. Image Text Extractor
+Extracts text from uploaded image files using Optical Character Recognition (OCR). Supports multiple image uploads and batch processing.
+
+> **Tech Used:** `easyOCR`, `Gradio`, `Python`, `Google Colab`
+
+---
+
+ 🧠 4. Face Analyzer
+Detects faces in images and analyzes facial features, age, gender etc using AI. Great for experiments face recognition.
+
+> **Tech Used:** `DeepFace`, `OpenCV`, `matplotlib`
 
 
 
-🖼️ 3. Image Text Extractor
-Description:
-This project uses Optical Character Recognition (OCR) to extract text from images. 
-It supports multiple file uploads and is perfect for scanning documents, extracting information from screenshots, or digitizing handwritten notes.
+ 🛠️ Installation & Setup
 
+You can run these projects on **Google Colab** (recommended for low-end systems) or locally if you prefer.
 
+ ✅ Run on Colab
+Click the **Open in Colab** badge in each project's folder or open `.ipynb` files manually via Colab.
 
-🧠 4. Face Analyzer
-Description:
-A face detection and analysis tool that identifies facial features, age, gender etc from images using AI models. 
-Great for fun projects, emotion tracking, or basic facial recognition demos.
-
+ 💻 Run Locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/hadiadev/My-AI-Project.git
+   cd My-AI-Project
