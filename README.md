@@ -1,11 +1,11 @@
-💬 2. YouTube Comment Analyzer
+💬 1. YouTube Comment Analyzer
 Description:
 A Python-based tool that fetches comments from YouTube videos and performs sentiment analysis to classify comments as Positive, Negative, or Neutral. 
 Ideal for understanding audience feedback or analyzing public opinion on videos.
 
 
 
-🔊 1. Audio Silence Remover
+🔊 2. Audio Silence Remover
 Description:
 This tool automatically detects and removes silent parts from audio files using Python and audio processing libraries. 
 It's useful for cleaning podcasts, voiceovers, or lecture recordings by skipping silent pauses to save time and make audio more engaging.
