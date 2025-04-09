@@ -48,3 +48,22 @@ Click the **Open in Colab** badge in each project's folder or open `.ipynb` file
    ```bash
    git clone https://github.com/hadiadev/My-AI-Project.git
    cd My-AI-Project
+
+
+
+
+
+
+Have an idea or want to improve a project? Feel free to fork this repo and submit a pull request!
+
+⭐ Show Some Love
+If you found this helpful, don’t forget to star the repo and share it with others who are interested in AI and automation!
+
+📧 Contact
+
+Created by Hadia riaz — Passionate about Python, AI, and making tech simple for everyone.
+
+ LinkedIn: linkedin.com/in/hadia-riaz-36a599283
+📬 Email: hadiadev56@gmail.com 
+
+
